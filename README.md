@@ -18,5 +18,3 @@ Launch on live
 ## copyright and license information
 (c) Copyright Peter Kenneth 2022
 
-
-helped by a pseudo ken
